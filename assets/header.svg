@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Walker Yturbides. Cybersecurity, M.S. at Northeastern University, U.S. Army Veteran.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1520"/><stop offset="0.55" stop-color="#10253A"/><stop offset="1" stop-color="#1B354F"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#38BDF8" stroke-opacity="0.07"/></pattern>
+<radialGradient id="glow" cx="0.82" cy="0.5" r="0.45"><stop offset="0" stop-color="#2DD4BF" stop-opacity="0.18"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+<clipPath id="c0"><rect x="303" y="184" width="0" height="40"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" keyTimes="0;0.0;0.11;0.17;0.2;1" values="0;0;625;625;0;0"/></rect></clipPath>
+<clipPath id="c1"><rect x="303" y="184" width="0" height="40"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" keyTimes="0;0.2;0.31;0.37;0.4;1" values="0;0;596;596;0;0"/></rect></clipPath>
+<clipPath id="c2"><rect x="303" y="184" width="0" height="40"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" keyTimes="0;0.4;0.51;0.57;0.6;1" values="0;0;524;524;0;0"/></rect></clipPath>
+<clipPath id="c3"><rect x="303" y="184" width="0" height="40"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" keyTimes="0;0.6;0.71;0.77;0.8;1" values="0;0;596;596;0;0"/></rect></clipPath>
+<clipPath id="c4"><rect x="303" y="184" width="0" height="40"><animate attributeName="width" dur="20.0s" repeatCount="indefinite" keyTimes="0;0.8;0.91;0.97;1;1" values="0;0;582;582;0;0"/></rect></clipPath>
+</defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+<g fill="none" stroke="url(#ac)" stroke-opacity="0.35" stroke-width="2"><path d="M1200 70H1110l-30 30H1010"/><path d="M1200 150H1060l-25-25H975"/><path d="M1200 230H1125l-35-35H1030"/><path d="M1140 300v-40l25-25"/></g>
+<g fill="#2DD4BF" fill-opacity="0.55"><circle cx="1010" cy="100" r="5"/><circle cx="975" cy="125" r="5"/><circle cx="1030" cy="195" r="5"/><circle cx="1165" cy="235" r="4"/></g>
+<g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#38BDF8" fill-opacity="0.16"><text x="1035" y="42">01010111 01011001</text></g>
+<g transform="translate(68,48)"><path d="M82 0 L164 30 V98 C164 154 128 186 82 204 C36 186 0 154 0 98 V30 Z" fill="#0E2234" stroke="url(#ac)" stroke-width="4"/><path d="M82 16 L150 41 V98 C150 145 120 172 82 188 C44 172 14 145 14 98 V41 Z" fill="none" stroke="#38BDF8" stroke-opacity="0.25" stroke-width="1.5"/><text x="82" y="124" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="66" font-weight="800" fill="#E2E8F0" letter-spacing="1">WY</text></g>
+<text x="276" y="116" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#F1F5F9" letter-spacing="4">WALKER YTURBIDES</text>
+<text x="278" y="157" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#A5B4C4">Cybersecurity · M.S. @ Northeastern University · U.S. Army Veteran</text>
+<text x="278" y="212" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#64748B">$</text>
+<text x="303" y="212" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#5EEAD4" textLength="619" lengthAdjust="spacing" clip-path="url(#c0)">offensive security &amp; responsible disclosure</text>
+<text x="303" y="212" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#5EEAD4" textLength="590" lengthAdjust="spacing" clip-path="url(#c1)">zero-knowledge, post-quantum cryptography</text>
+<text x="303" y="212" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#5EEAD4" textLength="518" lengthAdjust="spacing" clip-path="url(#c2)">defense-in-depth network engineering</text>
+<text x="303" y="212" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#5EEAD4" textLength="590" lengthAdjust="spacing" clip-path="url(#c3)">former OT/ICS engineer @ Procter &amp; Gamble</text>
+<text x="303" y="212" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="24" fill="#5EEAD4" textLength="576" lengthAdjust="spacing" clip-path="url(#c4)">securing the future of financial systems</text>
+<rect x="303" y="191" width="12" height="27" fill="#5EEAD4"><animate attributeName="x" dur="20.0s" repeatCount="indefinite" keyTimes="0;0.11;0.17;0.2;0.31;0.37;0.4;0.51;0.57;0.6;0.71;0.77;0.8;0.91;0.97;1" values="303;927;927;303;898;898;303;826;826;303;898;898;303;884;884;303"/><animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1" calcMode="discrete"/></rect>
+<line x1="278" y1="240" x2="800" y2="240" stroke="url(#ac)" stroke-opacity="0.45" stroke-width="2"/>
+<text x="278" y="270" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-style="italic" fill="#94A3B8" letter-spacing="1">Read More · Learn More · Change the Globe</text>
+</svg>
